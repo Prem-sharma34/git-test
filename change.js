@@ -1,3 +1,5 @@
 console.log('change1');
 console.log('new commmit');
-console.log('fetch commit);
+// this is just to check the git is working properly 
+console.log('free up the fetch');
+
